@@ -2,7 +2,10 @@
 **/node_modules/
 **/dist/
 **/.next/
+**/out/
 frontend/.env*
+frontend/.env.local
+frontend/.env.*.local
 
 # Python / Django
 **/__pycache__/
