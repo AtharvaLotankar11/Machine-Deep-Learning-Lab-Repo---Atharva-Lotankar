@@ -1,0 +1,14 @@
+{
+    "include": [
+        "backend"
+    ],
+    "executionEnvironments": [
+        {
+            "root": "backend",
+            "pythonVersion": "3.13",
+            "extraPaths": [
+                "api"
+            ]
+        }
+    ]
+}
